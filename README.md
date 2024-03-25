@@ -4,7 +4,7 @@
 
 
 
-# Tableau--Manufacturing-And-Employees-Analysis
+# Tableau--Manufacturing-And-Employee-Analysis
 This repository hosts a set of interactive dashboards created in Tableau, designed to provide insights into the performance and operations of a manufacturing company. The dashboards synthesize data from employee and production datasets to deliver a visual analysis of key performance indicators (KPIs) such as employee tenure, training, average salaries, and production costs across different departments and locations. They serve as a decision-making tool for the management, offering a clear depiction of the company's operational health and workforce dynamics.
 
 # Dasboard Snaps
